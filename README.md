@@ -11,7 +11,7 @@
 
 > **Note:** this is the *template/demo* site for Maria Monroy's new company, built in the agentzlab org to gather her feedback. It is distinct from the Next.js production build in Jon's Vader fleet (`D:\Hermes\projects\Monroys-Paralegal-Services`).
 
-![Hero — lands with the first build](assets/screenshot.png)
+![Dark-mode hero — current build](assets/screenshot.png)
 
 ## What's inside
 
